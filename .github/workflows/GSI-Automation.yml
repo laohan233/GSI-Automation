@@ -6,7 +6,7 @@ on:
     
 env:
   ROM_URL: https://download.meizu.com/Firmware/Flyme/16/8.20.9.8/cn_daily/20200908165500/d1679f4d/update.zip
-  ROM_NAME:  MIUI
+  ROM_NAME:  Oxygenos
   TZ: Asia/Shanghai
 
 jobs:
