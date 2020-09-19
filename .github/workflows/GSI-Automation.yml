@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://download.meizu.com/Firmware/Flyme/16/8.20.9.8/cn_daily/20200908165500/d1679f4d/update.zip
+  ROM_URL: http://download.h2os.com/OnePlus7Pro/MP/OnePlus7ProHydrogen_21.H.28_OTA_028_all_2007240037_b03998cd3afb4bb7.zip
   ROM_NAME:  Oxygenos
   TZ: Asia/Shanghai
 
